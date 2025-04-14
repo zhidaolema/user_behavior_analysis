@@ -1,6 +1,6 @@
 # user_behavior_analysis
 ## 如何运行
-1. 安装依赖：`pip install -r docs/requirements.txt`  
+1.  Python 3及以上、Jupyter Notebook 6.4及以上
 2. 执行notebooks/main_analysis.ipynb  
 3. 查看outputs/charts中的可视化结果  
 
